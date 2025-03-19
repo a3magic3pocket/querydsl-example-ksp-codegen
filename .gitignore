@@ -1,0 +1,6 @@
+# Custom
+build
+query-dsl
+.gradle
+.idea
+.kotlin
