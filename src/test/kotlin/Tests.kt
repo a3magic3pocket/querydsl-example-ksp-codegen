@@ -1,4 +1,10 @@
-import com.querydsl.example.ksp.*
+import com.querydsl.example.ksp.Cat
+import com.querydsl.example.ksp.CatType
+import com.querydsl.example.ksp.Person
+import com.querydsl.example.ksp.QCat
+import com.querydsl.example.ksp.QPerson
+import com.querydsl.example.ksp.QPersonClassDTO
+import com.querydsl.example.ksp.QPersonClassConstructorDTO
 import com.querydsl.jpa.impl.JPAQueryFactory
 import jakarta.persistence.EntityManagerFactory
 import org.hibernate.cfg.AvailableSettings
